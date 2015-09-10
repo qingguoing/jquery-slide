@@ -2,7 +2,8 @@
 
 ## Demo [at Codepen](http://codepen.io/qingguoing/pen/dYoQgy)
 
-if the website is based on the jquery library, you can use this plugin "jquery-slide.js" and make the images slided
+if the website is based on the jquery library, you can use this plugin "jquery-slide.js" and make the images slided.
+this plugin is so simple and easy, and you can see 'his brother', [a native javascript file](https://github.com/qingguoing/SlideJS)
 
 To be placed into the initiation code, and then passed to the relevant configuration objects, you can pass parameters are:
 
